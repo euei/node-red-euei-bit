@@ -1,7 +1,7 @@
 {
-  "name": "node-red-contrib-bit",
+  "name": "@euei/node-red-euei-credentials",
   "version": "1.0.1",
-  "description": "A Bit helper contribution package for Node-RED.",
+  "description": "A Node-RED set of nodes to extract bit values from (un)signed-integer bit-masks",
   "dependencies": {
     "debug": "~4.3.4",
     "source-map-support": "~0.5.21"
